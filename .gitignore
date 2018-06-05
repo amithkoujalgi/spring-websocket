@@ -69,14 +69,3 @@ ENV/
 *.project
 *.settings/
 *.classpath
-
-lib/
-!app/eai-pipeline-builder-api/src/main/resources/static/swagger/lib/
-!core/eai-manager-deployer-api/src/main/resources/static/swagger/lib/
-!commons/razorthink-swagger-ui/src/main/resources/static/swagger/lib/
-
-core/eai-manager-deployer-api/src/main/resources/client-routes/routes-client.properties
-app/eai-pipeline-builder-api/src/main/resources/client-routes/routes-client.properties
-
-docker/bigbrain-pipeline-app/resources/
-!docker/bigbrain-pipeline-app/resources/start-apps.sh
